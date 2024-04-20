@@ -28,7 +28,7 @@
 
 <style scoped>
 .morebox{
-    border: solid black;
+    
     display: flex;
     flex-direction: column;
     align-items: center;
